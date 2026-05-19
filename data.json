@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Kaos Heritage Batik",
+      "category": "kaos",
+      "price": 185000,
+      "emoji": "👕",
+      "badge": "BESTSELLER",
+      "desc": "Kaos premium dengan motif batik heritage yang dipadukan dengan bahan katun combed 30s berkualitas tinggi. Nyaman dipakai seharian.",
+      "sizes": ["S","M","L","XL","XXL"],
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "name": "Kemeja Lurik Modern",
+      "category": "kemeja",
+      "price": 285000,
+      "emoji": "👔",
+      "badge": "NEW",
+      "desc": "Kemeja dengan corak lurik khas Jawa yang dimodernisasi. Cocok untuk acara formal maupun semi-formal.",
+      "sizes": ["S","M","L","XL"],
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Jaket Bomber Etnik",
+      "category": "jaket",
+      "price": 450000,
+      "emoji": "🧥",
+      "badge": "LIMITED",
+      "desc": "Jaket bomber dengan aksen bordir motif etnik nusantara. Bahan nylon premium anti-angin.",
+      "sizes": ["M","L","XL","XXL"],
+      "stock": 15
+    },
+    {
+      "id": 4,
+      "name": "Celana Jogger Wayang",
+      "category": "celana",
+      "price": 220000,
+      "emoji": "👖",
+      "badge": "NEW",
+      "desc": "Celana jogger dengan print motif wayang di bagian bawah. Bahan fleece lembut dan elastis.",
+      "sizes": ["S","M","L","XL","XXL"],
+      "stock": 40
+    },
+    {
+      "id": 5,
+      "name": "Kaos Tenun Premium",
+      "category": "kaos",
+      "price": 210000,
+      "emoji": "🎽",
+      "badge": "",
+      "desc": "Kaos dengan texture tenun halus. Tampil kasual namun tetap berkarakter budaya.",
+      "sizes": ["S","M","L","XL"],
+      "stock": 60
+    },
+    {
+      "id": 6,
+      "name": "Kemeja Batik Tulis",
+      "category": "kemeja",
+      "price": 380000,
+      "emoji": "👘",
+      "badge": "PREMIUM",
+      "desc": "Kemeja batik tulis asli Yogyakarta dengan motif parang yang anggun. Setiap lembar adalah karya seni.",
+      "sizes": ["S","M","L","XL","XXL"],
+      "stock": 20
+    }
+  ]
+}
